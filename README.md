@@ -1,5 +1,5 @@
 # Retos Platzi
-_Autor: _ Jorge Céspedes
+_Autor:_ Jorge Céspedes
 
 ## 1. Hello, world!
 Hello, world! es el programa más básico que puede existir en cualquier lenguaje de programación. Todos recordamos la primera vez que escribimos un Hello, world! y lo satisfactorio que fue.
