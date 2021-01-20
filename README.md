@@ -1,6 +1,9 @@
 # Retos Platzi
 _Autor:_ Jorge Céspedes
 
+Referencia: https://platzi.com/blog/como-aprender-a-programar-desde-cero-platzi/
+
+
 ## 1. Hello, world!
 Hello, world! es el programa más básico que puede existir en cualquier lenguaje de programación. Todos recordamos la primera vez que escribimos un Hello, world! y lo satisfactorio que fue.
 El reto del día de hoy es escribir Hello, world
@@ -74,3 +77,12 @@ Te diste cuenta de que muchas veces hacemos cálculos que son con más de dos va
 
 ## 17. ¿Cómo puedo ordenar una lista de números de mayor a menor?
 El próximo reto será que ordenes una lista de 10 números aleatorios de mayor a menor y viceversa.
+
+## 18. Memory (parte 1)!
+Crea un código que te muestre 4 caracteres entre los siguientes de forma aleatoria: "#$%()/&
+
+## 19. Memory (part2)!
+Lleva un registro del Orden en el que aparecieron los caracteres.
+
+## 20. Memory (part3)!
+Dale al usuario un menú para que elija en el orden correcto los caracteres.
