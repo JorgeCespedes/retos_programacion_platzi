@@ -86,3 +86,31 @@ Lleva un registro del Orden en el que aparecieron los caracteres.
 
 ## 20. Memory (part3)!
 Dale al usuario un menú para que elija en el orden correcto los caracteres.
+
+
+## 21. ¿Cuánto vas a ahorrar?
+"El interés compuesto te sirve para generar más dinero gracias a los intereses que generas, es decir, hace que el valor que se paga por intereses se vaya aumentando mes a mes, por que el dinero sobre el cuál se hace el cálculo del interés se incrementa cada vez que se liquidan los respectivos intereses que ganaste el mes previo.
+Crea una calculadora que te diga cuánto vas a tener en 6 meses, 1 año y 2 años al ahorrar 100 dólares con una tasa de interés a tu favor del 4%.
+
+
+## 22. ¿Cuánto vas a ahorrar?
+Siguiendo con el reto anterior de ¿Cuanto vas a ahorrar?:
+Ahora quiero que le agregues a tu programa de interés compuesto la capacidad de variar el valor inicial de tu ahorro
+
+
+## 23. ¿Puedo ahorrar otros periodos de tiempo?
+Tu banco quiere permitirte ahorrar en nuevos intérvalos de tiempo que tú eleijas, agrega la funcionalidad a tu calculadora de interés compuesto de poner una cantidad de meses de ahorro variable
+
+## 24. ¿Puedo ahorrar en otros bancos?
+Te llegó un correo de un banco rival diciéndote que ellos te ofrecen un 3% de interés plus un 7% extra año con año
+¿¿Cuál de los dos bancos te conviene más para un año de ahorro?¿Cuál para 2?¿Cuál para 3?
+
+
+## 25. Ordenando ando #1
+Genera un set de 300 nombres en la siguiente página de internet http://www.generatedata.com/?lang=es y descárgalo como CSV
+
+## 26. Ordenando ando #2
+Ordena tu set de nombres con cualquier algoritmo de ordenamiento que quieras, asegúrate de imprimir cuánto tiempo se demoró tu equipo en ordenar.
+
+## 27. Ordenando ando #3
+Prueba otro algoritmo de ordenamiento con el mismo data set y compara el tiempo, comparte en el foro cuál fue tu algoritmo con mejor rendimiento y por qué.
